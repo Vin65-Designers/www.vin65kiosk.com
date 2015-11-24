@@ -1,0 +1,148 @@
+h5 {
+	font-weight: bold;
+	margin: 2em 0 1em;
+}
+
+h2, h3, h4 {
+	font-weight: 500;
+	margin: 1em 0 1.2em;
+}
+
+h4 {
+	margin: 0.5em 0 1em 0;
+}
+
+p {
+	margin: 0;
+	font-size: 0.9em;
+	line-height: 1.3em;
+}
+
+.homepageKioskWrapper {
+	max-width: 520px;
+	margin: 40px auto;
+}
+
+.v65-customForm fieldset div.submitForm {	
+	float:right;
+	width: 13%;
+}
+
+.v65-customForm fieldset div.resetForm {
+	text-align: right;
+	float:left;
+	width: 14%;
+}
+
+.v65-customForm fieldset div {
+	width: 100%;
+}
+
+p.employeeTitle {
+	color:#C0C0C0;
+}
+
+.staffMember {
+	clear:both;
+	padding: 1.2% 0;
+	overflow:auto;
+}
+
+.staffPhoto {
+	width: 25%;
+	float:left;
+	border-right: 5px solid #ECECEC;
+	padding-right: 5%;
+}
+
+.staffPhoto img {
+	width: 100%;
+}
+
+.staffDescription {
+	width: 75%;
+	padding-left:5%;
+	float:left;
+}
+
+.wineProduct {
+	clear:both;
+	padding: 1.5% 0;
+	overflow:auto;
+	border-top: 1px solid #ECECEC;
+}
+
+.winePhoto {
+	width: 15%;
+	float:left;
+}
+
+.winePhoto img {
+	width: 100%;
+}
+
+.wineDescription {
+	width: 75%;
+	padding-left:5%;
+	margin-top:2%;
+	float:left;
+}
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 25px;
+  height: 0;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+button.defaultBtn, button.altBtn {
+	color: #fff;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	border-radius: 5px;
+	display: inline-block;
+	padding: 0 20px;
+	font-size: 15px;
+	line-height: 52px;
+	margin: 0;
+	text-align: center;
+	vertical-align: middle;
+	cursor: pointer;
+}
+
+button.defaultBtn {
+	background-color: #6eb848;
+}
+
+button.altBtn {
+	background-color: #C0C0C0;
+}
+
+.logo {
+	text-align: center;
+	position: relative;
+	margin: 60px auto 0;
+	display: block;
+	width: 300px;
+}
+
+.v65-mainContent {
+	max-width: 960px;
+	margin:0 auto;
+	padding: 1% 2% 0;
+}
+
+.kiosk-content {
+	position: absolute;
+	margin-top: 52px;
+	width:100%;
+}
